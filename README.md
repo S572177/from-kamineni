@@ -10,3 +10,9 @@ Dominos has a very unique way of making their pizzas. I, especially love their s
 1. Pepper Chicken Pizza
 1. Chicken Wings
 1. French Fries
+
+## Places to Visit near the Restaurant
+
+- walmart
+- Mc Donalds
+- Wendys
