@@ -5,7 +5,8 @@ Dominos has a very unique way of making their pizzas. I, especially love their s
 **pizzas** **chicken**
 
 *****
-My Favorite Dishes
+## My Favorite Dishes
+
 1. Pepper Chicken Pizza
-chicken Nuggets
-French Fries
+1. Chicken Wings
+1. French Fries
