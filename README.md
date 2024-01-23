@@ -36,5 +36,7 @@ Link to MyMedia <MyMedia.md>
 ## Favorite Quotes
 
 >  Love your Enemies, for they tell you your Faults.
+
+
 >  He that falls in love with himself will have no rivals.
 
