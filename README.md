@@ -29,3 +29,12 @@ Link to MyMedia <MyMedia.md>
 | The 5AM Club | Waking early and enjoying some undistracted time helps you set yourself up for success. | Robin Sharma |
 | Atomics Habits |  An Easy & Proven Way to Build Good Habits & Break Bad Ones | James Clear |
 | The Alchemist | a novel that combines an atmosphere of medieval mysticism with the voice of the desert | Paulo Coelho |
+
+
+**********
+
+## Favorite Quotes
+
+>  Love your Enemies, for they tell you your Faults.
+>  He that falls in love with himself will have no rivals.
+
