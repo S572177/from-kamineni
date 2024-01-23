@@ -16,3 +16,5 @@ Dominos has a very unique way of making their pizzas. I, especially love their s
 - walmart
 - Mc Donalds
 - Wendys
+
+Link to MyMedia <MyMedia.md>
