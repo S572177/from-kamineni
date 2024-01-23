@@ -40,3 +40,24 @@ Link to MyMedia <MyMedia.md>
 
 >  He that falls in love with himself will have no rivals.
 
+*****
+## code Fencing
+Python Singleton Decorator
+Here we are using python singleton decorator to create a singleton class.
+<https://code.pieces.app/collections/python>
+
+```
+def singleton(myClass):
+	instances = {}
+	def getInstance(*args, **kwargs):
+		if myClass not in instances:
+			instances[myClass] = myClass(*args, **kwargs)
+		return instances[myClass]
+	return getInstance
+
+@singleton
+class TestClass(object):
+	pass 
+
+```
+
